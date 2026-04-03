@@ -39,11 +39,13 @@ php -m | grep -E "curl|dom|libxml"
 
 ### Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/phpproject.git
-cd phpproject
+git clone https://github.com/Mdsr47/php-task3-task4.git
+cd php-task3-task4
 ```
 
 ### Task 3 – Web Scraper
+### Task 3 and 4 you may test by using xampp(it's used)
+
 ```bash
 php task3_scraper.php
 ```
